@@ -1,0 +1,7 @@
+C:\ITStudy\13.Hello_C#\intro\01\myFirstProgram\myFirstProgram\bin\Debug\myFirstProgram.exe.config
+C:\ITStudy\13.Hello_C#\intro\01\myFirstProgram\myFirstProgram\bin\Debug\myFirstProgram.exe
+C:\ITStudy\13.Hello_C#\intro\01\myFirstProgram\myFirstProgram\bin\Debug\myFirstProgram.pdb
+C:\ITStudy\13.Hello_C#\intro\01\myFirstProgram\myFirstProgram\obj\Debug\myFirstProgram.csprojResolveAssemblyReference.cache
+C:\ITStudy\13.Hello_C#\intro\01\myFirstProgram\myFirstProgram\obj\Debug\myFirstProgram.csproj.CoreCompileInputs.cache
+C:\ITStudy\13.Hello_C#\intro\01\myFirstProgram\myFirstProgram\obj\Debug\myFirstProgram.exe
+C:\ITStudy\13.Hello_C#\intro\01\myFirstProgram\myFirstProgram\obj\Debug\myFirstProgram.pdb
